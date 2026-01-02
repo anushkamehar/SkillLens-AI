@@ -1,0 +1,77 @@
+ANUSHKA MEHAR
+City, State
+Phone: XXXXXXXXXX
+Email: anushkamehar@email.com
+
+--------------------------------------------
+
+CAREER OBJECTIVE
+Motivated B.Tech 2nd year Computer Science Engineering student seeking internship
+opportunities to develop technical skills and gain practical experience in the
+software field.
+
+--------------------------------------------
+
+EDUCATION
+Bachelor of Technology (B.Tech) – Computer Science Engineering
+College/University Name, City
+Year: 2nd Year
+Expected Graduation: 20XX
+CGPA: X.XX / 10
+
+Class XII
+Board: CBSE/ISC/State Board
+School Name
+Percentage: XX%
+
+Class X
+Board: CBSE/ISC/State Board
+School Name
+Percentage: XX%
+
+--------------------------------------------
+
+TECHNICAL SKILLS
+Programming Languages: C, C++, Python, Java
+Web Technologies: HTML, CSS, JavaScript
+Tools: VS Code, Git
+Database: MySQL (Basic)
+Operating Systems: Windows, Linux
+
+--------------------------------------------
+
+PROJECTS
+Student Management System
+- Developed a basic system using Python and MySQL to manage student records.
+
+Personal Portfolio Website
+- Designed a responsive website using HTML, CSS, and JavaScript.
+
+--------------------------------------------
+
+ACHIEVEMENTS / ACTIVITIES
+- Participated in coding contests and workshops
+- Member of college technical club
+
+--------------------------------------------
+
+SOFT SKILLS
+- Problem-solving
+- Teamwork
+- Communication
+- Time management
+
+--------------------------------------------
+
+PERSONAL DETAILS
+Languages Known: English, Hindi
+Hobbies: Coding, learning new technologies
+
+--------------------------------------------
+
+DECLARATION
+I hereby declare that the above information is true to the best of my knowledge.
+
+Date:
+Place:
+Signature: ANUSHKA MEHAR
